@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: beige;
+}
+.bd{
+    border: 4px solid black;
+    padding: 20px;
+}
+.btn{
+    background-color: transparent;
+    background-color: rgb(228, 163, 24);
+    color: white;
+    padding: 10px;
+    font-size: large;
+    margin-left: 20px;
+}
